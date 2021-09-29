@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amaan Bijwala
-- 👀 I’m interested in c++ and python
+- 👀 I’m interested in C and C++
 - 🌱 I’m currently learning as  EXTC Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : amanbijwala28@gmail.com
